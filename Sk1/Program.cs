@@ -6,7 +6,8 @@ namespace Sk1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello GitHub!");
+            Console.ReadLine();
         }
     }
 }
